@@ -19,7 +19,7 @@ permissions:
   actions: read
 
 env:
-  WORKDIR: "demo-IaC-fasttrack"
+  WORKDIR: "."
   TF_INPUT: "false"
   TF_IN_AUTOMATION: "true"
   TERRAFORM_VERSION: "1.13.3"
